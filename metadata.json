@@ -1,0 +1,6 @@
+{
+  "name": "AuditQA - E-commerce QA & Release Decision Platform",
+  "description": "Sistema de auditoría de calidad, análisis de riesgos y sandbox interactivo de remediación de defectos para e-commerce B2C.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
